@@ -8,6 +8,8 @@ Metriken skickas med hjälp av API-anrop till servern serverX, där det lagras i
 
 Log4CjS är skrivet av Vilhelm Fontell i JavaScript och körs med hjälp av Node.js.
 
+*Obs: På grund av sekretess har länkar och servernamn i detta projekt censurerats. De flesta länkar är därför döda.*
+
 ## Systembeskrivning
 
 Log4CjS körs på servern serverX med hjälp av Node.js, vilket betyder att även webbservern är egenutvecklad. 
