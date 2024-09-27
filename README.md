@@ -1,6 +1,6 @@
 # Log4CjS
 
-Log4CjS är en plattform för insamling av statistik från [CjS](https://gitlab.lkl.ltkalmar.se/oc/cjs/ "CjS i Gitlab"), [CjS-Support](https://gitlab.lkl.ltkalmar.se/oc/cjs-support "CjS-Support i Gitlab"), [OP5HostManager](https://gitlab.lkl.ltkalmar.se/oc/op5hostmanager "OP5HostManager i Gitlab") och [SupportTools](https://gitlab.lkl.ltkalmar.se/oc/supporttools "SupportTools i Gitlab").
+Log4CjS är en plattform för insamling av statistik från [CjS](https://gitlab.ltkalmar.se/oc/cjs/ "CjS i Gitlab"), [CjS-Support](https://gitlab.ltkalmar.se/oc/cjs-support "CjS-Support i Gitlab"), [OP5HostManager](https://gitlab.ltkalmar.se/oc/op5hostmanager "OP5HostManager i Gitlab") och [SupportTools](https://gitlab.ltkalmar.se/oc/supporttools "SupportTools i Gitlab").
 
 Nuvarande version är 1.1.1.
 
@@ -39,4 +39,4 @@ Eftersom skrivningar till Log4CjS är inbyggda i CjS och övriga verktyg sker me
 
 ## Support
 
-För buggrapporter och förbättringsförslag, [öppna ett issue i Gitlab.](https://gitlab.lkl.ltkalmar.se/oc/log4cjs/-/issues "Issue") Märk issuet med någon av labelarna "Bugg" eller "Förbättringsförslag".
+För buggrapporter och förbättringsförslag, [öppna ett issue i Gitlab.](https://gitlab.ltkalmar.se/oc/log4cjs/-/issues "Issue") Märk issuet med någon av labelarna "Bugg" eller "Förbättringsförslag".

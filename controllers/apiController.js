@@ -1,4 +1,4 @@
-﻿// Denna fil är en del av Log4CjS. Mer info finns här: https://gitlab.lkl.ltkalmar.se/oc/log4cjs
+﻿// Denna fil är en del av Log4CjS. Mer info finns här: https://gitlab.ltkalmar.se/oc/log4cjs
 
 
 
